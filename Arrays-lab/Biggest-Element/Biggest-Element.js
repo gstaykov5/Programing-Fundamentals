@@ -14,3 +14,5 @@ function solve(array = []) {
     }
     console.log(save);
 }
+expected 'New employee is hired. Name: {username}. Position: {position}' 
+to equal 'New employee is hired. Name: Stanimir. Position: engineer'
